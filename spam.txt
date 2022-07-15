@@ -1,0 +1,4 @@
+git add
+git commit
+git push
+after all these commands we can see this file in remote repo i.e. in github
